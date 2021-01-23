@@ -6,8 +6,10 @@ One method of tackling a deep learning problem is to combat it with another deep
 
 # Examples
 Below is a Unity generated image depicting an armor:
+
 ![](https://github.com/acyclics/ArmorClassifier/blob/master/examples/unity_demo.png)
 
 Below are GAN modified images to better match the actual distribution:
+
 ![](https://github.com/acyclics/ArmorClassifier/blob/master/examples/gen1.png) ![](https://github.com/acyclics/ArmorClassifier/blob/master/examples/gen2.png)
 ![](https://github.com/acyclics/ArmorClassifier/blob/master/examples/gen3.png) ![](https://github.com/acyclics/ArmorClassifier/blob/master/examples/gen4.png)
